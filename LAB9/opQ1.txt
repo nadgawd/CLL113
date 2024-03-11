@@ -1,0 +1,9 @@
+actual value at x = 0 : 0 vs calculated value at x = 0 : 0
+actual value at x = 0.897598 : 0.61126 vs calculated value at x = 0.897598 : 0.61126
+actual value at x = 1.7952 : 0.950484 vs calculated value at x = 1.7952 : 0.950484
+actual value at x = 2.69279 : 0.188255 vs calculated value at x = 2.69279 : 0.188255
+actual value at x = 3.59039 : 0.188255 vs calculated value at x = 3.59039 : 0.188255
+actual value at x = 4.48799 : 0.950484 vs calculated value at x = 4.48799 : 0.950484
+actual value at x = 5.38559 : 0.61126 vs calculated value at x = 5.38559 : 0.61126
+actual value at x = 6.28319 : 5.99864e-032 vs calculated value at x = 6.28319 : 5.99864e-032
+
