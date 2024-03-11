@@ -1,0 +1,6 @@
+Iter = 0 True Error = 1.73205 Relative Error = 1
+Iter = 1 True Error = 1.95006 Relative Error = 0.858778
+Iter = 2 True Error = 0.136455 Relative Error = 0.0675947
+Iter = 3 True Error = 0.00105259 Relative Error = 0.000526263
+Iter = 4 True Error = 1.08746e-007 Relative Error = 5.4373e-008
+x = 0.866025, y = 0.5, z = 1.73205

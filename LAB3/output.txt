@@ -1,0 +1,15 @@
+The solution matrix obtained via Jacobi's method is 
+3
+-5
+9
+Number of iterations taken for Jacobi 163
+The solution matrix obtained via Gauss-Seidel method without SOR is 
+3
+-5
+9
+Number of iterations taken for Gauss-Seidel without SOR 83
+The solution matrix obtained via Gauss-Seidel method using SOR is 
+3
+-5
+9
+Number of iterations taken for Gauss-Seidel using SOR 36

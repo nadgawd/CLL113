@@ -1,0 +1,27 @@
+Tolerance 1e-007
+
+BISECTION
+Initial guesses 1 2
+Approx root 1.51213
+No. of iterations 23
+
+NEWTON RAPHSON
+Initial guesses 1
+Approx root 0.619061
+No. of iterations 5
+
+FIXED POINT ITERATION
+Initial guess 1
+Approx root 0.619061
+No. of iterations 31
+
+SECANT
+Initial guesses 1 2
+Approx root 1.51213
+No. of iterations 9
+
+REGULA FALSI
+Initial guesses 1 2
+Approx root 1.51213
+No. of iterations 21
+
